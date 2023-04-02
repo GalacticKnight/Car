@@ -1,0 +1,30 @@
+.viewing_box {
+
+    width: 300px;
+    border: 5px solid black;
+    padding: 50px;
+    margin: 20px;
+    margin: auto;
+}
+.purchase{
+    float:right;
+}
+table, tr,th, td{
+    border:1px solid black;
+    width:70%;
+    margin: auto;
+}
+
+.flex-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content:space-around;
+    margin: 0 auto;
+}
+.container {
+    margin: 5%;
+    padding: 2%;
+}
+.form-group{
+    margin-bottom:15px;
+}
